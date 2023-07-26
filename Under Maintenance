@@ -9,51 +9,51 @@
 <link href="https://fonts.googleapis.com/css?family=Assistant" rel="stylesheet">
       <style>
           font-family: 'Noto Sans', sans-serif;
-font-family: 'Montserrat', sans-serif
-font-family: 'Source Code Pro', monospace;
-font-family: 'Open Sans Condensed', sans-serif;
-font-family: 'Ubuntu', sans-serif;
-font-family: 'Mali', cursive;
-font-family: 'Comfortaa', cursive;
-font-family: 'Playfair Display SC', serif;
-font-family: 'Playfair Display', serif;
-font-family: 'McLaren', cursive;
-font-family: 'Charmonman', cursive;
-font-family: 'Patrick Hand', cursive;
-font-family: 'Pacifico', cursive;
-font-family: 'Gloria Hallelujah', cursive;
-font-family: 'Permanent Marker', cursive;
-font-family: 'Amatic SC', cursive;
-font-family: 'Caveat', cursive;
-font-family: 'Sacramento', cursive;
-font-family: 'Tangerine', cursive;
-font-family: 'Parisienne', cursive;
-font-family: 'Architects Daughter', cursive;
-font-family: 'Gochi Hand', cursive;
-font-family: 'Annie Use Your Telescope', cursive;
-font-family: 'Nanum Brush Script', cursive;
-font-family: 'Sue Ellen Francisco', cursive;
-font-family: 'Delius', cursive;
-font-family: 'Itim', cursive;
-font-family: 'Herr Von Muellerhoff', cursive;
-font-family: 'Schoolbell', cursive;
-font-family: 'Short Stack', cursive;
-font-family: 'Montez', cursive;
-font-family: 'Mr De Haviland', cursive;
-font-family: 'Cedarville Cursive', cursive;
-font-family: 'The Girl Next Door', cursive;
-font-family: 'Patrick Hand SC', cursive;
-font-family: 'Walter Turncoat', cursive;
-font-family: 'Crafty Girls', cursive;
-font-family: 'Vibur', cursive;
-font-family: 'Gaegu', cursive;
-font-family: 'League Script', cursive;
-font-family: 'Hi Melody', cursive;
-font-family: 'Gamja Flower', cursive;
-font-family: 'Monsieur La Doulaise', cursive;
-font-family: 'Miss Fajardose', cursive;
-font-family: 'Meie Script', cursive;
-font-family: 'Butterfly Kids', cursive;
+          font-family: 'Montserrat', sans-serif
+          font-family: 'Source Code Pro', monospace;
+          font-family: 'Open Sans Condensed', sans-serif;
+          font-family: 'Ubuntu', sans-serif;
+          font-family: 'Mali', cursive;
+          font-family: 'Comfortaa', cursive;
+          font-family: 'Playfair Display SC', serif;
+          font-family: 'Playfair Display', serif;
+          font-family: 'McLaren', cursive;
+          font-family: 'Charmonman', cursive;
+          font-family: 'Patrick Hand', cursive;
+          font-family: 'Pacifico', cursive;
+          font-family: 'Gloria Hallelujah', cursive;
+          font-family: 'Permanent Marker', cursive;
+          font-family: 'Amatic SC', cursive;
+          font-family: 'Caveat', cursive;
+          font-family: 'Sacramento', cursive;
+          font-family: 'Tangerine', cursive;
+          font-family: 'Parisienne', cursive;
+          font-family: 'Architects Daughter', cursive;
+          font-family: 'Gochi Hand', cursive;
+          font-family: 'Annie Use Your Telescope', cursive;
+          font-family: 'Nanum Brush Script', cursive;
+          font-family: 'Sue Ellen Francisco', cursive;
+          font-family: 'Delius', cursive;
+          font-family: 'Itim', cursive;
+          font-family: 'Herr Von Muellerhoff', cursive;
+          font-family: 'Schoolbell', cursive;
+          font-family: 'Short Stack', cursive;
+          font-family: 'Montez', cursive;
+          font-family: 'Mr De Haviland', cursive;
+          font-family: 'Cedarville Cursive', cursive;
+          font-family: 'The Girl Next Door', cursive;
+          font-family: 'Patrick Hand SC', cursive;
+          font-family: 'Walter Turncoat', cursive;
+          font-family: 'Crafty Girls', cursive;
+          font-family: 'Vibur', cursive;
+          font-family: 'Gaegu', cursive;
+          font-family: 'League Script', cursive;
+          font-family: 'Hi Melody', cursive;
+          font-family: 'Gamja Flower', cursive;
+          font-family: 'Monsieur La Doulaise', cursive;
+          font-family: 'Miss Fajardose', cursive;
+          font-family: 'Meie Script', cursive;
+          font-family: 'Butterfly Kids', cursive;
     blah {
           font-family: 'Comfortaa', cursive;
           font-size: 20px
@@ -65,7 +65,7 @@ font-family: 'Butterfly Kids', cursive;
           href="https://fonts.googleapis.com/css?family=comfortaa">
           <style>
           
-      comfortaa18px {
+            comfortaa18px {
         font-family: 'comfortaa', cursive;
         font-size: 18px;
       }
@@ -75,10 +75,6 @@ font-family: 'Butterfly Kids', cursive;
       }
            Jack {
         font-family: 'Assistant', cursive;
-        font-size: 48px;
-      }
-           Zetong {
-        font-family: 'Comfortaa', cursive;
         font-size: 48px;
       }
       
@@ -104,14 +100,14 @@ H2 { text-align: center }
         font-size: 18px;
       }
             comfortaa {
-        font-family: 'comfortaa', cursive;
+        font-family: 'Comfortaa', cursive;
         font-size: 48px;
       }
            Jack {
         font-family: 'Assistant', cursive;
         font-size: 48px;
       }
-           Zetong {
+           comfortaa {
         font-family: 'Comfortaa', cursive;
         font-size: 48px;
       }
@@ -176,7 +172,7 @@ span {
 
 
 
-</Zetong>
+</comfortaa>
 
 
 </comfortaa18px>
